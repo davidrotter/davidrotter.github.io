@@ -36,7 +36,7 @@
 <nav class="navbar navbar-light static-top"> 
       <div class="container">
         <div class="navbar-header">
-       <img src="file:///C:/Users/david/Documents/GitHub/davidrotter.github.io/images/LogoDET.png" height="50px" width="280px">
+       <img src="../images/LogoDET.png" height="70px" width="280px">
         </div>
         <div class="nav-item">
           <ul class="nav">
