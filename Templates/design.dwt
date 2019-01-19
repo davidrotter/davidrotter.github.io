@@ -36,13 +36,13 @@
 <nav class="navbar navbar-light static-top"> 
       <div class="container">
         <div class="navbar-header">
-       <img src="../images/LogoDET.png" height="50px" width="280px">
+       <img src="file:///C:/Users/david/Documents/GitHub/davidrotter.github.io/images/LogoDET.png" height="50px" width="280px">
         </div>
         <div class="nav-item">
           <ul class="nav">
-            <li class="nav-item"><a class="nav-link" href="../index.html">Home</a></li>
-            <li class="nav-item"><a class="nav-link" href="../XLTile.html">XL Tile</a></li>
-            <li class="nav-item"><a class="nav-link" href="../gallery.html">Gallery</a></li>
+            <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+            <li class="nav-item"><a class="nav-link" href="XLTile.html">XL Tile</a></li>
+            <li class="nav-item"><a class="nav-link" href="gallery.html">Gallery</a></li>
             <li class="nav-item"><a class="nav-link" href="Contact.html">Contact</a></li>
           </ul>
         </div>
