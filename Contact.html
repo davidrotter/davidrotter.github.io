@@ -54,10 +54,14 @@
     <!-- InstanceBeginEditable name="Main" -->
      <div class="container">
      	<form name="contactForm" id="contactForm" method="post" action="https://formspree.io/daveseuropeantile@gmail.com">
-     		<input type="text" name="Name" value="Name">
-     		<input type="email" name="_replyto" value="Email Address">
-     		<input type="tel" name="phone" value="Phone number">
-     		<textarea required  form="contactForm" name="txtmessage">enter msg</textarea>
+			<label for="name">*Name</label>
+     		<input type="text" name="Name" id="name">
+			<label for="email">*Email Address</label>
+     		<input type="Email" name="_replyto" id="email">
+			<label for="phone">Phone Number</label>
+     		<input type="tel" name="Phone" id="phone">
+			<lable for="msg">Message</lable>
+     		<textarea required form="contactForm" name="Message" id="msg"></textarea>
      		<input type="submit" value="Submit">
      	
 		</form>
