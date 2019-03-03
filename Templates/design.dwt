@@ -10,11 +10,21 @@
     <!-- TemplateBeginEditable name="doctitle" -->
     <title>Dave's European Tile - Main</title>
     <!-- TemplateEndEditable -->
+       
+       
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
         <link rel="stylesheet" href="../css/contact_form.css" />
 		<script src="../contact_form.js"></script>
+	  <script src="../gallery.js"></script>
+	  <script src="../css/css.css"></script>
     <!-- Bootstrap core CSS -->
     <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    
+    <!-- Bootstrap -->
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    
 
     <!-- Custom fonts for this template -->
     <link href="../vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
